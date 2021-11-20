@@ -7,4 +7,4 @@ Creates a password based on the options selected (uppercase, lowercase, numbers 
  HTML, CSS, JAVASCRIPT
  
  # Live Link:-
- 
+ https://password-generator19.netlify.app/
